@@ -28,16 +28,6 @@ O projeto tem foco em **Programação Orientada a Objetos (POO)**, principalment
 
 ---
 
-## Estrutura do Projeto
-
-mini-sistema-bancario/
-│
-├── pessoa.py            # Classe Pessoa (atividade 1)
-├── conta_bancaria.py    # Classe ContaBancaria (atividade 2)
-├── main.py              # Demonstração de uso das duas atividades integradas
-└── README.md            # Descrição do projeto para GitHub
-
-
 ---
 
 ## Exemplo de Uso
