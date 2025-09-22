@@ -32,10 +32,10 @@ O projeto tem foco em **Programação Orientada a Objetos (POO)**, principalment
 
 mini-sistema-bancario/
 │
-├── pessoa.py # Classe Pessoa
-├── conta_bancaria.py # Classe ContaBancaria
-├── main.py # Demonstração de uso integrado
-└── README.md # Este arquivo
+├── pessoa.py            # Classe Pessoa (atividade 1)
+├── conta_bancaria.py    # Classe ContaBancaria (atividade 2)
+├── main.py              # Demonstração de uso das duas atividades integradas
+└── README.md            # Descrição do projeto para GitHub
 
 ---
 
