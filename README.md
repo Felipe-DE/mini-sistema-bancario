@@ -28,8 +28,6 @@ O projeto tem foco em **Programação Orientada a Objetos (POO)**, principalment
 
 ---
 
----
-
 ## Exemplo de Uso
 
 ```python
