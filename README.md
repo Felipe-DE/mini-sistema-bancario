@@ -87,4 +87,5 @@ Métodos getters e setters com @property
 
 Considerações Finais
 
-Este projeto é para fins acadêmicos, desenvolvido como parte da trilha de capacitação do programa Softex PE. Ele garante que os dados privados, como saldo e CPF, só possam ser acessados ou modificados de forma controlada e segura, integrando as duas atividades em um único projeto.
+Este projeto é para fins acadêmicos, desenvolvido como parte da trilha de capacitação do programa Softex PE. Ele garante que os dados privados, como saldo e CPF,
+só possam ser acessados ou modificados de forma controlada e segura, integrando as duas atividades em um único projeto.
