@@ -37,6 +37,7 @@ mini-sistema-bancario/
 ├── main.py              # Demonstração de uso das duas atividades integradas
 └── README.md            # Descrição do projeto para GitHub
 
+
 ---
 
 ## Exemplo de Uso
