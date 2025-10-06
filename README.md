@@ -1,7 +1,5 @@
 # Mini Sistema Bancário em Python 🏦
 
-Este é um projeto acadêmico desenvolvido como parte da **trilha de capacitação do programa Softex PE**. Ele integra duas atividades:
-
 1. **Classe Pessoa** com atributos privados (`cpf` e `identidade`) e métodos getters e setters.  
 2. **Classe ContaBancaria** associada à Pessoa, com saldo privado, depósitos e saques, garantindo que o saldo nunca fique negativo.
 
